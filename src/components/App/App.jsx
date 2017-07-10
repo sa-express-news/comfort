@@ -6,7 +6,7 @@ import StoryTopContainer from '../StoryTopContainer/StoryTopContainer';
 import IntroParagraph from '../IntroParagraph/IntroParagraph';
 import Sections from '../Sections/Sections';
 
-import Story from '../../story.json';
+import Story from '../../mock_story.json';
 import './App.css';
 
 class App extends Component {

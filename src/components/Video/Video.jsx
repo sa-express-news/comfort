@@ -21,13 +21,16 @@ class Video extends Component {
 		controls: true
 	};
 
-	handleClick = (event) =>{
-		let paused = event.target.paused;
-		if (paused){
-			event.target.play();			
-		}
-		else{
-			event.target.pause();
+	handleClick = (event: Event) =>{
+		if (event.target instanceof window.HTMLInputElement){
+			let paused = event.target.paused;
+			if (paused){
+				event.target.play();			
+			}
+
+			else{
+				event.target.pause();
+			}
 		}
 	}
 

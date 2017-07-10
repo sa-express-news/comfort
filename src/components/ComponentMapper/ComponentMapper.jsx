@@ -11,6 +11,7 @@ import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhoto
 import SmallPhotoDesktopContainerReverse from '../SmallPhotoDesktopContainerReverse/SmallPhotoDesktopContainerReverse';
 import Photos from '../Photos/Photos';
 import PullQuote from '../PullQuote/PullQuote';
+import Subscribe from '../Subscribe/Subscribe';
 import RelatedContent from '../RelatedContent/RelatedContent';
 import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
 import Video from '../Video/Video';
@@ -51,6 +52,8 @@ export default{
 	},
 
 	pullquote: (object: Object, key: number) => <PullQuote quote={object.value.quote} key={key} />,
+
+	subscribe: (object: Object, key: number) => <Subscribe key={key} />,
 
 	related: (object: Object, key: number) => <RelatedContent headline={object.value.headline} link={object.value.link} key={key} />,
 
