@@ -1,22 +1,48 @@
-.SubscribeContainer {
+.SubscribeFooter{
     padding: 2em 0;
+    background: #E5E5E5;
+    text-align: center;
+    width: 100%;
+}
+
+.SubscribeFooter * {
+    margin: 0;
+}
+
+.SubscribeFooter > div {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.SubscribeFooter button {
+    width: 45%;
+}
+
+/*.SubscribeFooterContainer {
     border-bottom: 1px solid gray;
     border-top: 1px solid gray;
     margin: 0 auto;
     width: 90%;
 }
 
-.SubscribeContainer * {
+.SubscribeFooterContainer * {
     margin: 0;
 }
 
-.SubscribeContainer h4 {
+.SubscribeFooterContainer h4 {
     color: #080808;
     font-size: 130%;
 }
 
+.SubscribeFooterContainer button {
+    background: #FF0920;
+    border: none;
+    border-radius: 2px;
+    padding: .5rem;
+}
+
 @media (min-width: 550px) {
-    .SubscribeContainer {
+    .SubscribeFooterContainer {
         float: right;
         margin-left: 2%;
         margin-right: 10%;
@@ -26,7 +52,7 @@
 }
 
 @media (min-width: 768px) {
-    .SubscribeContainer {
+    .SubscribeFooterContainer {
         float: right;
         margin-left: 2%;
         margin-right: 15%;
@@ -36,13 +62,13 @@
 }
 
 @media (min-width: 900px) {
-    .SubscribeContainer {
+    .SubscribeFooterContainer {
         margin-right: 19%;
     }
 }
 
 @media (min-width: 1024px) {
-    .SubscribeContainer {
+    .SubscribeFooterContainer {
         clear: both;
         margin-right: 26%;
         width: 25%;
@@ -50,9 +76,10 @@
 }
 
 @media (min-width: 1280px) {
-    .SubscribeContainer {
+    .SubscribeFooterContainer {
         margin-right: 28%;
     }
 }
 
 @media (min-width: 1440px) {}
+*/
