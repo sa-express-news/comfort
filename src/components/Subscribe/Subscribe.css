@@ -1,0 +1,64 @@
+.SubscribeContainer {
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.SubscribeContainer * {
+    margin: 0;
+}
+
+.SubscribeContainer h4 {
+    color: #080808;
+    font-size: 130%;
+}
+
+.SubscribeContainer button {
+    background: #FF0920;
+    border: none;
+    border-radius: 2px;
+    padding: .5rem;
+}
+
+@media (min-width: 550px) {
+    .SubscribeContainer {
+        float: right;
+        margin-left: 2%;
+        margin-right: 10%;
+        text-align: left;
+        width: 40%;
+    }
+}
+
+@media (min-width: 768px) {
+    .SubscribeContainer {
+        float: right;
+        margin-left: 2%;
+        margin-right: 15%;
+        text-align: left;
+        width: 40%;
+    }
+}
+
+@media (min-width: 900px) {
+    .SubscribeContainer {
+        margin-right: 19%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .SubscribeContainer {
+        clear: both;
+        margin-right: 26%;
+        width: 25%;
+    }
+}
+
+@media (min-width: 1280px) {
+    .SubscribeContainer {
+        margin-right: 28%;
+    }
+}
+
+@media (min-width: 1440px) {}
