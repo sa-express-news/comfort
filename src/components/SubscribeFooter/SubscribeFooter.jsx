@@ -10,9 +10,9 @@ class SubscribeFooter extends Component {
 		return(
 			<div className='SubscribeFooter'>
 			<div>
-				<h4>Seriously, give us your money.</h4>
-				<p>This is your final chance to support the biased fake news.</p>
-				<Button link='http://expressnews.com' text='Subscribe now'/>
+				<h4>Support thoughtful journalism.</h4>
+				<p>Great deals on your new Toyota Corolla. If we can't make this two lines we might as well die.</p>
+				<Button link='http://expressnews.com' text='Subscribe'/>
 			</div>
 			</div>
 		)

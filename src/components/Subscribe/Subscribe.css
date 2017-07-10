@@ -1,19 +1,16 @@
 .SubscribeContainer {
-    padding: 2em 0;
-    border-bottom: 1px solid gray;
-    border-top: 1px solid gray;
-    margin: 0 auto;
-    width: 90%;
-}
-
-.SubscribeContainer * {
+    padding: 0 0 1em;
+    border-bottom: 1.5px solid gray;
+    border-top: 1.5px solid gray;
     margin: 0;
+    width: 90%;
 }
 
 .SubscribeContainer h4 {
     color: #080808;
     font-size: 130%;
 }
+
 
 @media (min-width: 550px) {
     .SubscribeContainer {
