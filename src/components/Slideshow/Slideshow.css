@@ -1,0 +1,31 @@
+/*.Slideshow-Container {
+    margin: 2em 0;
+}
+
+@media only screen and (min-width: 768px) {
+    .Slideshow-Container {
+        margin: 0 auto;
+        width: 75%;
+    }
+}*/
+/*.Slideshow{
+	position: relative;
+}*/
+
+.slideshow-enter {
+  opacity: 0.01;
+}
+
+.slideshow-enter.slideshow-enter-active {
+  opacity: 1;
+  transition: opacity 800ms ease-in;
+}
+
+.slideshow-leave {
+  opacity: 1;
+}
+
+.slideshow-leave.slideshow-leave-active {
+  opacity: 0.01;
+  transition: opacity 800ms ease-in;
+}
