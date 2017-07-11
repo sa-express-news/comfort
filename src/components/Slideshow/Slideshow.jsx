@@ -14,27 +14,18 @@ class Slideshow extends Component {
 	};
 
 	state = {
-		activeIndex : 0
+		activeIndex : 0,
+		loadedPhotos: []
 	};
 
 	constructor(){
 		super();
-
-		// this.buildPhoto = this.buildPhoto.bind(this);
 		this.handleClick = this.handleClick.bind(this);
 	}
 
-	// loadPhoto = (path: string) =>{
-	// 	return require(`../../images/${path}`);
-	// }
-
-	// buildPhoto = (component: Object) =>{
-	// 	const photoPath = this.loadPhoto(component.source);
-	// 	let photoComponent = <FullPhoto src={photoPath} alt={component.caption}/>;
-
-	// 	return <SlideshowPhoto caption={component.caption} cutline={component.cutline} key={Math.random()}>{photoComponent}</SlideshowPhoto>;
-	// }
-
+	loadPhoto = (path: string) =>{
+		return require(`../../images/${path}`);
+	}
 	handleClick = () =>{
 
 		let maxIndex = this.props.photos.length - 1;
@@ -61,6 +52,11 @@ class Slideshow extends Component {
 				transitionLeave={false}>
 				{slideshowPhotos[this.state.activeIndex]}
 			</CSSTransitionGroup>
+			<div className='Slideshow-load'>
+				{this.props.photos.map((photo, index)=>{
+					return <img src={this.loadPhoto(photo.source)} key={index}/>
+				})}
+			</div>
 			</div>
 		)
 	}

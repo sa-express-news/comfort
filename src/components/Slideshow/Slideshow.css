@@ -21,6 +21,10 @@
   transition: opacity 500ms linear;
 }
 
+.Slideshow-load{
+  display: none;
+}
+
 /*.slideshow-leave {
   opacity: 1;
 }
