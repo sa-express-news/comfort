@@ -24,6 +24,7 @@ class SlideshowPhoto extends Component {
 			<div className='SlideshowPhoto'>
 				<FullPhoto src={this.loadPhoto(this.props.source)} alt={this.props.caption}/>
 				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline}/>
+
 			</div>
 		)
 	}

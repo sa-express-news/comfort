@@ -1,0 +1,30 @@
+.SlideshowButton-container {
+    font-size: 200%;
+    position: absolute;
+    top: 35%;
+}
+
+@media (min-width: 440px){
+	.SlideshowButton-container{
+		font-size: 225%;
+	}
+}
+
+@media (min-width: 768px){
+	
+}
+
+.SlideshowButton-container.right {
+    right: 0;
+}
+
+.SlideshowButton-container.left {
+    left: 0;
+}
+
+.SlideshowButton {
+	background: #EDEDED;
+	border-radius: 15px;
+	cursor: pointer;
+    padding: 0 .5em;
+}
