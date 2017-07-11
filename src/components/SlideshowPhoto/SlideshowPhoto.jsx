@@ -2,23 +2,27 @@
 
 import React, {Component} from 'react';
 
+import FullPhoto from '../FullPhoto/FullPhoto';
 import PhotoInfo from '../PhotoInfo/PhotoInfo';
 
 import './SlideshowPhoto.css';
 
 class SlideshowPhoto extends Component {
 	props: {
-		children: any,
+		source: string,
 		caption: string,
 		cutline: string,
-		displayClass: string
 	};
+
+	loadPhoto = (path: string) =>{
+		return require(`../../images/${path}`);
+	}
 
 	render(){
 
 		return(
 			<div className='SlideshowPhoto'>
-				{this.props.children}
+				<FullPhoto src={this.loadPhoto(this.props.source)} alt={this.props.caption}/>
 				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline}/>
 			</div>
 		)

@@ -4,7 +4,7 @@ import React, {Component} from 'react';
 import { CSSTransitionGroup } from 'react-transition-group'
 
 import SlideshowPhoto from '../SlideshowPhoto/SlideshowPhoto';
-import FullPhoto from '../FullPhoto/FullPhoto';
+// import FullPhoto from '../FullPhoto/FullPhoto';
 
 import './Slideshow.css';
 
@@ -20,20 +20,20 @@ class Slideshow extends Component {
 	constructor(){
 		super();
 
-		this.buildPhoto = this.buildPhoto.bind(this);
+		// this.buildPhoto = this.buildPhoto.bind(this);
 		this.handleClick = this.handleClick.bind(this);
 	}
 
-	loadPhoto = (path: string) =>{
-		return require(`../../images/${path}`);
-	}
+	// loadPhoto = (path: string) =>{
+	// 	return require(`../../images/${path}`);
+	// }
 
-	buildPhoto = (component: Object) =>{
-		const photoPath = this.loadPhoto(component.source);
-		let photoComponent = <FullPhoto src={photoPath} alt={component.caption}/>;
+	// buildPhoto = (component: Object) =>{
+	// 	const photoPath = this.loadPhoto(component.source);
+	// 	let photoComponent = <FullPhoto src={photoPath} alt={component.caption}/>;
 
-		return <SlideshowPhoto caption={component.caption} cutline={component.cutline} key={Math.random()}>{photoComponent}</SlideshowPhoto>;
-	}
+	// 	return <SlideshowPhoto caption={component.caption} cutline={component.cutline} key={Math.random()}>{photoComponent}</SlideshowPhoto>;
+	// }
 
 	handleClick = () =>{
 
@@ -49,15 +49,17 @@ class Slideshow extends Component {
 
 	render(){
 
-		const photoComponent = this.buildPhoto(this.props.photos[this.state.activeIndex]);
+		const slideshowPhotos = this.props.photos.map((photo, index)=>{
+			return <SlideshowPhoto source={photo.source} caption={photo.caption} cutline={photo.cutline} key={index}/>
+		});
 
 		return(
 			<div className='Slideshow' onClick={this.handleClick}>
 			<CSSTransitionGroup
 				transitionName='slideshow'
-				transitionEnterTimeout={800}
-				transitionLeaveTimeout={800}>
-				{photoComponent}
+				transitionEnterTimeout={500}
+				transitionLeave={false}>
+				{slideshowPhotos[this.state.activeIndex]}
 			</CSSTransitionGroup>
 			</div>
 		)

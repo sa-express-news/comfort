@@ -13,19 +13,19 @@
 }*/
 
 .slideshow-enter {
-  opacity: 0.01;
+  opacity: .25;
 }
 
 .slideshow-enter.slideshow-enter-active {
   opacity: 1;
-  transition: opacity 800ms ease-in;
+  transition: opacity 500ms linear;
 }
 
-.slideshow-leave {
+/*.slideshow-leave {
   opacity: 1;
 }
 
 .slideshow-leave.slideshow-leave-active {
   opacity: 0.01;
   transition: opacity 800ms ease-in;
-}
+}*/
