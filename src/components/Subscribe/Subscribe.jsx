@@ -10,7 +10,7 @@ class Subscribe extends Component {
 		return(
 			<div className='SubscribeContainer'>
 				<h4>Support quality journalism.</h4>
-				<p>The Express-News strives to bring inspiring journalism to you every day.</p>
+				<p>The Express-News strives to bring you thoughtful local stories every day.</p>
 				<Button link='http://expressnews.com' text='Subscribe'/>
 			</div>
 		)

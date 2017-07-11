@@ -1,12 +1,12 @@
 .SubscribeFooter{
-    padding: 2em 0;
+    padding: .25em 0em;
     background: #E5E5E5;
     text-align: center;
     width: 100%;
 }
 
 .SubscribeFooter * {
-    margin: 0;
+    margin: 5px;
 }
 
 .SubscribeFooter > div {
@@ -15,7 +15,7 @@
 }
 
 .SubscribeFooter button {
-    width: 20%;
+    width: 75%;
 }
 
 /*.SubscribeFooterContainer {
