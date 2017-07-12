@@ -9,9 +9,9 @@ class Subscribe extends Component {
 	render(){
 		return(
 			<div className='SubscribeContainer'>
-				<h4>Give us your money.</h4>
-				<p>We need it right now.</p>
-				<Button link='http://expressnews.com' text='Subscribe now'/>
+				<h4>Support quality journalism.</h4>
+				<p>The Express-News strives to bring you thoughtful local stories every day.</p>
+				<Button link='http://expressnews.com' text='Subscribe'/>
 			</div>
 		)
 	}
