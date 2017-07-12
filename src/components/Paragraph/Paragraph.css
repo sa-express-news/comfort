@@ -1,5 +1,5 @@
 .Paragraph {
-    margin: .25em auto;
+    margin: .5em auto;
     width: 90%;
 }
 
@@ -19,7 +19,7 @@
 @media only screen and (min-width: 1024px) {
     .Paragraph {
         font-size: 1.25em;
-        margin: .5em auto;
+/*        margin: .5em auto;*/
         line-height: 1.5;
         width: 50%;
     }

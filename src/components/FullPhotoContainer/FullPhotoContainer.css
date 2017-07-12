@@ -1,10 +1,35 @@
-.FullPhotoContainer{
-	margin: 2em 0;
+.FullPhotoContainer {
+    margin: 2em 0;
 }
 
-@media only screen and (min-width: 768px){
-	.FullPhotoContainer{
-		margin: 0 auto 2vh;
-		width: 75%;
-	}
+@media only screen and (min-width: 768px) {
+    .FullPhotoContainer {
+        margin: 0 auto 2vh;
+        width: 75%;
+    }
 }
+
+.Photos .FullPhotoContainer:not(:last-of-type) {
+    margin-bottom: 0;
+}
+
+.Photos .FullPhotoContainer:not(:first-of-type) {
+    margin-top: 0;
+}
+
+.Photos .FullPhotoContainer:not(:last-of-type) .PhotoInfo {
+    display: none;
+}
+
+.Slideshow .FullPhotoContainer:not(:last-of-type) {
+    margin-bottom: 0;
+}
+
+.Slideshow .FullPhotoContainer:not(:first-of-type) {
+    margin-top: 0;
+}
+
+.Slideshow .FullPhotoContainer:not(:last-of-type) .PhotoInfo {
+    display: none;
+}
+
