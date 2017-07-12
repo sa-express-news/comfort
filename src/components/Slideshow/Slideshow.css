@@ -1,39 +1,16 @@
-.Slideshow{
-  position: relative;
+.Slideshow {
+    position: relative;
 }
-
-/*.Slideshow-Container {
-    margin: 2em 0;
-}
-
-@media only screen and (min-width: 768px) {
-    .Slideshow-Container {
-        margin: 0 auto;
-        width: 75%;
-    }
-}*/
-/*.Slideshow{
-	position: relative;
-}*/
 
 .slideshow-enter {
-  opacity: .25;
+    opacity: .5;
 }
 
 .slideshow-enter.slideshow-enter-active {
-  opacity: 1;
-  transition: opacity 500ms linear;
+    opacity: 1;
+    transition: opacity 400ms linear;
 }
 
-.Slideshow-load{
-  display: none;
+.Slideshow-load {
+    display: none;
 }
-
-/*.slideshow-leave {
-  opacity: 1;
-}
-
-.slideshow-leave.slideshow-leave-active {
-  opacity: 0.01;
-  transition: opacity 800ms ease-in;
-}*/

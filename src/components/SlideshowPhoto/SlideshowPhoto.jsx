@@ -14,7 +14,9 @@ class SlideshowPhoto extends Component {
 		caption: string,
 		cutline: string,
 		moveForward: Function,
-		moveBackward: Function
+		moveBackward: Function,
+		handleTouchStart: Function,
+		handleTouchEnd: Function
 	};
 
 	loadPhoto = (path: string) =>{
@@ -22,10 +24,10 @@ class SlideshowPhoto extends Component {
 	}
 
 	render(){
-
 		return(
-			<div className='SlideshowPhoto'>
-				<FullPhoto src={this.loadPhoto(this.props.source)} alt={this.props.caption}/>
+			<div className='SlideshowPhotoContainer'>
+				<img className='SlideshowPhoto' src={this.loadPhoto(this.props.source)} width='100%' 
+				alt={this.props.caption} onTouchStart={this.props.handleTouchStart} onTouchEnd={this.props.handleTouchEnd}/>
 				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline}/>
 				<SlideshowButton right={false} onClick={this.props.moveForward}/>
 				<SlideshowButton right={true} onClick={this.props.moveBackward}/>

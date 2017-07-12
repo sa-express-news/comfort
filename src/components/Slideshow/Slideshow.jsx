@@ -15,7 +15,10 @@ class Slideshow extends Component {
 
 	state = {
 		activeIndex : 0,
-		loadedPhotos: []
+		loadedPhotos: [],
+		touchStartX: null,
+		touchStartY: null,
+		lastChange: new Date()
 	};
 
 	constructor(){
@@ -27,44 +30,80 @@ class Slideshow extends Component {
 	loadPhoto = (path: string) =>{
 		return require(`../../images/${path}`);
 	}
+
 	moveForward = () =>{
+			let maxIndex = this.props.photos.length - 1;
+			let currentIndex = this.state.activeIndex;
 
-		let maxIndex = this.props.photos.length - 1;
-		let currentIndex = this.state.activeIndex;
+			let newIndex = currentIndex === maxIndex ? 0 : currentIndex + 1;
 
-		let newIndex = currentIndex === maxIndex ? 0 : currentIndex + 1;
-
-    	this.setState(prevState => ({
-      		activeIndex: newIndex
-   		}));
+    		this.setState(prevState => ({
+      			activeIndex: newIndex,
+      			lastChange: new Date()
+   			}));
 	}
 
 	moveBackward = () =>{
 		let currentIndex = this.state.activeIndex;
 
+		console.log(new Date().getTime() - this.state.lastChange.getTime());
+
 		let newIndex = currentIndex === 0 ? this.props.photos.length -1 : currentIndex -1;
 
 		this.setState(prevState => ({
-      		activeIndex: newIndex
+      		activeIndex: newIndex,
+      		lastChange: new Date()
    		}));
 	}
 
 	handleTouchStart = (event: Event) =>{
 
-		
+		const theTouch = event.touches[0];
+
+		console.log(theTouch.screenX);
+
+		this.setState(prevState => ({
+			touchStartX: theTouch.screenX,
+			touchStartY: theTouch.screenY
+		}));
+	}
+
+	handleTouchEnd = (event: Event) =>{
+		const theTouch = event.changedTouches[0];
+
+		if (this.state.touchStartX - theTouch.screenX >= 75){
+			this.moveBackward();
+		}
+
+		if(theTouch.screenX - this.state.touchStartX >= 75){
+			this.moveForward();
+		}
+
+	}
+
+	shouldComponentUpdate = (nextProps, nextState) =>{
+		const millisecondsSinceLastChange = new Date().getTime() - this.state.lastChange.getTime();
+
+		if (millisecondsSinceLastChange < 400){
+			return false;
+		}
+
+		return true;
 	}
 
 	render(){
 
 		const slideshowPhotos = this.props.photos.map((photo, index)=>{
-			return <SlideshowPhoto source={photo.source} caption={photo.caption} cutline={photo.cutline} moveForward={this.moveForward} moveBackward={this.moveBackward} key={index}/>
+			return <SlideshowPhoto source={photo.source} caption={photo.caption} cutline={photo.cutline}
+			moveForward={this.moveForward} moveBackward={this.moveBackward} 
+			handleTouchStart={this.handleTouchStart} handleTouchEnd={this.handleTouchEnd} key={index}/>
 		});
 
 		return(
 			<div className='Slideshow'>
 			<CSSTransitionGroup
 				transitionName='slideshow'
-				transitionEnterTimeout={500}
+				transitionEnterTimeout={400}
 				transitionLeave={false}>
 				{slideshowPhotos[this.state.activeIndex]}
 			</CSSTransitionGroup>

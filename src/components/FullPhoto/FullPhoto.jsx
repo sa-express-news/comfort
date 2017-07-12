@@ -7,7 +7,7 @@ import './FullPhoto.css';
 class FullPhoto extends Component {
 	props: {
 		src: string,
-		alt: string,
+		alt: string
 	};
 
 	render(){
