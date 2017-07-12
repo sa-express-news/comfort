@@ -7,7 +7,7 @@ import IntroParagraph from '../IntroParagraph/IntroParagraph';
 import Sections from '../Sections/Sections';
 import SubscribeFooter from '../SubscribeFooter/SubscribeFooter';
 
-import Story from '../../mock_story.json';
+import Story from '../../story.json';
 import './App.css';
 
 class App extends Component {
@@ -16,7 +16,7 @@ class App extends Component {
       <div className='App'>
           <StoryTopContainer data={Story.top} />
           <div className='Story'>
-            <IntroParagraph text='Towering above his high school defenders, 6-foot-10 center Charles Bassey took the ball on the right wing of the basket, dribbled, then flung it to the backboard in the playful style of a Harlem Globetrotter.' />
+            <IntroParagraph text='As Chip Asberry fondly recalls it, the week of fellowship, sports and even a rodeo at church camp in the Hill Country three decades ago was nothing short of perfect.' />
             <Sections sections={Story.sections}/>
           </div>
           <SubscribeFooter/>

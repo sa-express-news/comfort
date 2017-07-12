@@ -6,7 +6,7 @@ import PhotoInfo from '../PhotoInfo/PhotoInfo';
 
 import './FullPhotoContainer.css';
 
-class PhotoContainer extends Component {
+class FullPhotoContainer extends Component {
 	props: {
 		children: any,
 		caption: string,
@@ -24,4 +24,4 @@ class PhotoContainer extends Component {
 	}
 }
 
-export default PhotoContainer;
+export default FullPhotoContainer;
