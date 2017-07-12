@@ -49,10 +49,15 @@ class Slideshow extends Component {
    		}));
 	}
 
+	handleTouchStart = (event: Event) =>{
+
+		
+	}
+
 	render(){
 
 		const slideshowPhotos = this.props.photos.map((photo, index)=>{
-			return <SlideshowPhoto source={photo.source} caption={photo.caption} cutline={photo.cutline} key={index}/>
+			return <SlideshowPhoto source={photo.source} caption={photo.caption} cutline={photo.cutline} moveForward={this.moveForward} moveBackward={this.moveBackward} key={index}/>
 		});
 
 		return(
@@ -68,8 +73,6 @@ class Slideshow extends Component {
 					return <img src={this.loadPhoto(photo.source)} key={index} alt={photo.caption}/>
 				})}
 			</div>
-				<SlideshowButton right={false} onClick={this.moveBackward}/>
-				<SlideshowButton right={true} onClick={this.moveForward}/>
 			</div>
 		)
 	}
