@@ -10,6 +10,7 @@ import SmallPhotoDesktop from '../SmallPhotoDesktop/SmallPhotoDesktop';
 import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhotoDesktopContainer';
 import SmallPhotoDesktopContainerReverse from '../SmallPhotoDesktopContainerReverse/SmallPhotoDesktopContainerReverse';
 import Photos from '../Photos/Photos';
+import Slideshow from '../Slideshow/Slideshow';
 import PullQuote from '../PullQuote/PullQuote';
 import Subscribe from '../Subscribe/Subscribe';
 import RelatedContent from '../RelatedContent/RelatedContent';
@@ -46,6 +47,8 @@ export default{
 	},
 	
 	photos: (object: Object, key: number) => <Photos photos={object.value} key={key}/>,
+
+	slideshow: (object: Object, key: number) => <Slideshow photos={object.value} key={key}/>,
 
 	loadPhoto: function(path: string){
 		return require(`../../images/${path}`);
