@@ -28,8 +28,16 @@
 .Paragraph .dropCap {
     float: left;
     font-size: 8vh;
+    font-weight: bold;
     line-height: 60px;
+    margin-right: 2vh;
     padding-top: 1vh;
     padding-right: 0;
     padding-left: 3px;
+}
+
+@media (min-width: 768px) {
+    .dropCap {
+        font-size: 7vh;
+    }
 }

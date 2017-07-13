@@ -19,22 +19,9 @@
 
 @media only screen and (min-width: 1024px) {
     .SectionHeading {
-        margin: 0 auto;
+        font-size: 1.45em;
         line-height: 1.5;
+        margin: 0 auto;
         width: 50%;
-    }
-}
-
-.dropCap {
-    font-size: 8vh;
-    margin-right: 3vh;
-    display: block;
-    font-weight: bold;
-    float: left;
-}
-
-@media (min-width: 768px) {
-    .dropCap {
-        font-size: 7vh;
     }
 }

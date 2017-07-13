@@ -1,15 +1,27 @@
-@media (max-width: 1023px) {
+/*@media (max-width: 1023px) {
     .iFrameContainer {
         display: none;
     }
 }
-
+*/
 .iFrameContainer {
-    margin: 0 auto 2vh;
+    margin: 2.5em auto;
     position: relative;
     padding-bottom: 56.25%;
     width: 85%;
     height: 0;
+}
+
+@media (min-width: 768px){
+    .iFrameContainer{
+        margin: 5em auto;
+    }
+}
+
+@media (min-width: 1024px){
+    .iFrameContainer{
+        margin: 7.5em auto;
+    }
 }
 
 .iFrameContainer iframe {
