@@ -12,7 +12,7 @@ class SubscribeFooter extends Component {
 			<div>
 				<h4>Support the Express-News.</h4>
 				<p>Get access to quality journalism every day.</p>
-				<Button link='http://expressnews.com' text='Subscribe'/>
+				<Button link='https://myaccount.expressnews.com/dssSubscribe.aspx?pid=889&z=00000' text='Subscribe'/>
 			</div>
 			</div>
 		)
