@@ -2,7 +2,6 @@
 
 import React, {Component} from 'react';
 
-import FullPhoto from '../FullPhoto/FullPhoto';
 import PhotoInfo from '../PhotoInfo/PhotoInfo';
 import SlideshowButton from '../SlideshowButton/SlideshowButton';
 
@@ -26,7 +25,7 @@ class SlideshowPhoto extends Component {
 	render(){
 		return(
 			<div className='SlideshowPhotoContainer'>
-				<img className='SlideshowPhoto' src={this.loadPhoto(this.props.source)} width='100%' 
+				<img className='SlideshowPhoto' src={this.props.source} width='100%' 
 				alt={this.props.caption} onTouchStart={this.props.handleTouchStart} onTouchEnd={this.props.handleTouchEnd}/>
 				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline}/>
 				<SlideshowButton right={false} onClick={this.props.moveForward}/>

@@ -3,7 +3,6 @@ import React, {Component} from 'react';
 import { CSSTransitionGroup } from 'react-transition-group'
 
 import SlideshowPhoto from '../SlideshowPhoto/SlideshowPhoto';
-import SlideshowButton from '../SlideshowButton/SlideshowButton';
 
 import './Slideshow.css';
 
@@ -104,7 +103,7 @@ class Slideshow extends Component {
 			</CSSTransitionGroup>
 			<div className='Slideshow-load'>
 				{this.props.photos.map((photo, index)=>{
-					return <img src={this.loadPhoto(photo.source)} key={index} alt={photo.caption}/>
+					return <img src={photo.source} key={index} alt={photo.caption}/>
 				})}
 			</div>
 			</div>

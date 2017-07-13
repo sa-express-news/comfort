@@ -7,7 +7,7 @@
       "date": "July 17, 2017"
     },
     "image": {
-      "source": "comfort-1987-7.jpg",
+      "source": "http://ww3.hdnux.com/photos/62/37/65/13237590/3/rawImage.jpg",
       "caption": "First responders retrieve the bus that was swept away in a flood July 17, 1987, killing 10 children on board as they left a church camp near Comfort, Texas.",
       "cutline": "Express-News file photo"
     }
@@ -61,7 +61,7 @@
       {
         "type": "photo",
         "value": {
-          "source": "bohnert-1.jpg",
+          "source": "http://ww1.hdnux.com/photos/62/37/65/13237580/3/rawImage.jpg",
           "caption": "Steve Bohnert looks over the memorial stone as he returns to the Guadalupe River near Comfort and looks over the site of the 1987 tragedy which claimed 10 teenagers lives  on June 2, 2017.",
           "cutline": "Tom Reel / San Antonio Express-News",
           "type": "small-right"
@@ -102,7 +102,7 @@
       {
         "type": "iframe",
         "value": {
-          "source": "https://www.youtube.com/embed/fUJ4vSTXXyQ?ecver=1"
+          "source": "https://www.youtube.com/embed/L24W1dmlUAg?rel=0&showinfo=0"
         }
       }
     ],
@@ -201,27 +201,27 @@
         "type": "slideshow",
         "value": [
           {
-            "source": "comfort-1987-6.jpg",
+            "source": "http://ww1.hdnux.com/photos/62/37/65/13237588/3/rawImage.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
             "cutline": "Express-News file photo"
           },
           {
-            "source": "comfort-1987-5.jpg",
+            "source": "http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
             "cutline": "Express-News file photo"
           },
           {
-            "source": "comfort-1987-3.jpg",
+            "source": "http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
             "cutline": "Express-News file photo"
           },
           {
-            "source": "comfort-1987-8.jpg",
+            "source": "http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
             "cutline": "Express-News file photo"
           },
           {
-            "source": "comfort-1987-2.jpg",
+            "source": "http://ww4.hdnux.com/photos/62/37/65/13237587/3/rawImage.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
             "cutline": "Express-News file photo"
           }
@@ -288,6 +288,12 @@
       {
         "type": "text",
         "value": "“We tell the story of some of the kids who were heroes that day, including the young man who was never found. And of the ones who survived and are doing great things. Our hope is we’ll see them again in heaven,” he said."
+      },
+      {
+        "type": "iframe",
+        "value": {
+          "source": "https://www.youtube.com/embed/fUJ4vSTXXyQ?ecver=1"
+        }
       }
     ],
     "4": [

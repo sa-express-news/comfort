@@ -26,7 +26,7 @@ export default{
 
 	photo: function(object: Object, key: number){
 		const photo = object.value;
-		const photoPath = this.loadPhoto(photo.source);
+		const photoPath = photo.source;
 		switch (photo.type){
 			
 			case 'full': 
