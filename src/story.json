@@ -8,8 +8,8 @@
     },
     "image": {
       "source": "comfort-1987-7.jpg",
-      "caption": "St. Anthony's Charles Bassey leaves the school.",
-      "cutline": "Edward A. Ornelas / San Antonio Express-News"
+      "caption": "First responders retrieve the bus that was swept away in a flood July 17, 1987, killing 10 children on board as they left a church camp near Comfort, Texas.",
+      "cutline": "Express-News file photo"
     }
   },
   "sections": {
@@ -59,14 +59,6 @@
         "value": "In a riverbank pecan grove, terrified teenagers were hanging from limbs. They were the lucky ones. Others had already been carried downstream."
       },
       {
-        "type": "text",
-        "value": "“We had a very helpless feeling because we couldn’t do anything. We saw kids in the trees. We were trying to point them out to the choppers. At the time we didn’t have a swift water boat or anything. And none of us had any swift water training,” said Steve Bohnert, 65, a Comfort volunteer fireman."
-      },
-      {
-        "type": "text",
-        "value": "“They were told the river was coming up and ‘If you want to leave, leave now,’ but they should have just waited. It was just one of those freaky unfortunate things that never should have happened,” he added."
-      },
-      {
         "type": "photo",
         "value": {
           "source": "bohnert-1.jpg",
@@ -74,6 +66,14 @@
           "cutline": "Tom Reel / San Antonio Express-News",
           "type": "small-right"
         }
+      },
+      {
+        "type": "text",
+        "value": "“We had a very helpless feeling because we couldn’t do anything. We saw kids in the trees. We were trying to point them out to the choppers. At the time we didn’t have a swift water boat or anything. And none of us had any swift water training,” said Steve Bohnert, 65, a Comfort volunteer fireman."
+      },
+      {
+        "type": "text",
+        "value": "“They were told the river was coming up and ‘If you want to leave, leave now,’ but they should have just waited. It was just one of those freaky unfortunate things that never should have happened,” he added."
       },
       {
         "type": "text",
@@ -203,27 +203,27 @@
           {
             "source": "comfort-1987-6.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News File Photos"
+            "cutline": "Express-News file photo"
           },
           {
             "source": "comfort-1987-5.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News File Photos"
+            "cutline": "Express-News file photo"
           },
           {
             "source": "comfort-1987-3.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News File Photos"
+            "cutline": "Express-News file photo"
           },
           {
             "source": "comfort-1987-8.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News File Photos"
+            "cutline": "Express-News file photo"
           },
           {
             "source": "comfort-1987-2.jpg",
             "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News File Photos"
+            "cutline": "Express-News file photo"
           }
         ]
       }

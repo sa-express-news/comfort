@@ -6,8 +6,8 @@ date: July 17, 2017
 
 {top.image}
 source: comfort-1987-7.jpg
-caption: St. Anthony's Charles Bassey leaves the school.
-cutline: Edward A. Ornelas / San Antonio Express-News
+caption: First responders retrieve the bus that was swept away in a flood July 17, 1987, killing 10 children on board as they left a church camp near Comfort, Texas.
+cutline: Express-News file photo
 
 [+sections.1]
 
@@ -33,16 +33,16 @@ By the time the volunteer firemen and others arrived, the raging brown torrent h
 
 In a riverbank pecan grove, terrified teenagers were hanging from limbs. They were the lucky ones. Others had already been carried downstream. 
 
-“We had a very helpless feeling because we couldn’t do anything. We saw kids in the trees. We were trying to point them out to the choppers. At the time we didn’t have a swift water boat or anything. And none of us had any swift water training,” said Steve Bohnert, 65, a Comfort volunteer fireman. 
-
-“They were told the river was coming up and ‘If you want to leave, leave now,’ but they should have just waited. It was just one of those freaky unfortunate things that never should have happened,” he added.
-
 {.photo}
 source: bohnert-1.jpg
 caption: Steve Bohnert looks over the memorial stone as he returns to the Guadalupe River near Comfort and looks over the site of the 1987 tragedy which claimed 10 teenagers lives  on June 2, 2017.
 cutline: Tom Reel / San Antonio Express-News
 type: small-right
 {}
+
+“We had a very helpless feeling because we couldn’t do anything. We saw kids in the trees. We were trying to point them out to the choppers. At the time we didn’t have a swift water boat or anything. And none of us had any swift water training,” said Steve Bohnert, 65, a Comfort volunteer fireman. 
+
+“They were told the river was coming up and ‘If you want to leave, leave now,’ but they should have just waited. It was just one of those freaky unfortunate things that never should have happened,” he added.
 
 The unimaginable tragedy quickly became national news. For the close-knit congregation of the Balch Springs church, it would prove a harsh test of faith. For many involved in the rescue effort, the nightmarish memories remain vivid 30 years later. 
 
@@ -116,23 +116,23 @@ The project is a joint venture between the county and the Upper Guadalupe River 
 
 source: comfort-1987-6.jpg
 caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News File Photos
+cutline: Express-News file photo
 
 source: comfort-1987-5.jpg
 caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News File Photos
+cutline: Express-News file photo
 
 source: comfort-1987-3.jpg
 caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News File Photos
+cutline: Express-News file photo
 
 source: comfort-1987-8.jpg
 caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News File Photos
+cutline: Express-News file photo
 
 source: comfort-1987-2.jpg
 caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News File Photos
+cutline: Express-News file photo
 
 []
 
