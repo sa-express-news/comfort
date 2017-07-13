@@ -45,8 +45,6 @@ class Slideshow extends Component {
 	moveBackward = () =>{
 		let currentIndex = this.state.activeIndex;
 
-		console.log(new Date().getTime() - this.state.lastChange.getTime());
-
 		let newIndex = currentIndex === 0 ? this.props.photos.length -1 : currentIndex -1;
 
 		this.setState(prevState => ({
@@ -58,8 +56,6 @@ class Slideshow extends Component {
 	handleTouchStart = (event: Event) =>{
 
 		const theTouch = event.touches[0];
-
-		console.log(theTouch.screenX);
 
 		this.setState(prevState => ({
 			touchStartX: theTouch.screenX,
