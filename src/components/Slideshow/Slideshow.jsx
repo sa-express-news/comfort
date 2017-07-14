@@ -97,7 +97,7 @@ class Slideshow extends Component {
 			<div className='Slideshow'>
 			<CSSTransitionGroup
 				transitionName='slideshow'
-				transitionEnterTimeout={400}
+				transitionEnterTimeout={350}
 				transitionLeave={false}>
 				{slideshowPhotos[this.state.activeIndex]}
 			</CSSTransitionGroup>

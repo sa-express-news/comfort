@@ -28,8 +28,8 @@ class SlideshowPhoto extends Component {
 				<img className='SlideshowPhoto' src={this.props.source} width='100%' 
 				alt={this.props.caption} onTouchStart={this.props.handleTouchStart} onTouchEnd={this.props.handleTouchEnd}/>
 				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline}/>
-				<SlideshowButton right={false} onClick={this.props.moveForward}/>
-				<SlideshowButton right={true} onClick={this.props.moveBackward}/>
+				<SlideshowButton right={false} onClick={this.props.moveBackward}/>
+				<SlideshowButton right={true} onClick={this.props.moveForward}/>
 			</div>
 		)
 	}

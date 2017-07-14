@@ -21,7 +21,7 @@
 
 .slideshow-enter.slideshow-enter-active {
     opacity: 1;
-    transition: opacity 400ms linear;
+    transition: opacity 350ms linear;
 }
 
 .Slideshow-load {
