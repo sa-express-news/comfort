@@ -1,6 +1,6 @@
 {top.meta}
-headline: Comfort flood claimed 10 lives thirty years ago this week
-subhead: Three decades ago, 10 Dallas-area children on a church bus perished in the raging floodwaters of the Guadalupe River.
+headline: Thirty years ago, Comfort flood claimed 10 lives 
+subhead: Dallas-area children perished when a church bus was swept into the raging floodwaters of the Guadalupe River.
 byline: John MacCormack
 date: July 17, 2017
 
@@ -21,7 +21,7 @@ The route to safety from the Pot O’ Gold Ranch included a low stretch of road 
 
 On foot, outside the vehicles, the campers were told to form a human chain and head to safety, but it already was too late.
 
-Swollen by nearly foot of rainfall overnight, the Guadalupe River had jumped its banks and was rapidly rising. Ten church kids from the Balch Springs church would perish in the flash flood, including one who fell during an attempted helicopter rescue. The body of one lost camper was never recovered. 
+Swollen by nearly a foot of rainfall overnight, the Guadalupe River had jumped its banks and was rapidly rising. Ten kids from the Balch Springs church would perish in the flash flood, including one who fell during an attempted helicopter rescue. The body of one lost camper was never recovered. 
 
 Looking back, Asberry recalls vividly how quickly the disaster struck, as he and his young church friends sought high ground. 
 
@@ -35,7 +35,7 @@ In a riverbank pecan grove, terrified teenagers were hanging from limbs. They we
 
 {.photo}
 source: http://ww1.hdnux.com/photos/62/37/65/13237580/3/rawImage.jpg
-caption: Steve Bohnert looks over the memorial stone as he returns to the Guadalupe River near Comfort and looks over the site of the 1987 tragedy which claimed 10 teenagers lives  on June 2, 2017.
+caption: Steve Bohnert looks over the memorial stone on June 2, 2017 as he returns to the Guadalupe River near Comfort and the site of the 1987 tragedy which claimed 10 teenagers' lives.
 cutline: Tom Reel / San Antonio Express-News
 type: small-right
 {}
@@ -72,13 +72,13 @@ The Red Cross set up an emergency shelter for survivors in the elementary school
 
 One 14-year-old girl, who had been plucked from a tree by a helicopter, fell to her death before she could be lowered to dry land. Other footage shows a rescuer on a rope trying futilely to reach another girl. She also drowned.
 
-A day later, when the flood waters subsided, the gruesome, muddy search for bodies began. National Guardsmen, Texas Rangers, men on horseback, divers, cadaver dogs and squads of volunteers joined the effort. Eventually all but John Bankston Jr. a star athlete at the academy, were recovered. 
+A day later, when the flood waters subsided, the gruesome, muddy search for bodies began. National Guardsmen, Texas Rangers, men on horseback, divers, cadaver dogs and squads of volunteers joined the effort. Eventually all but John Bankston Jr., a star athlete at the academy, were recovered. 
 
 “It was a constant two weeks for me. We went down there searching the river banks along with a hundred other volunteers who came from all over the country. They searched all the way down below Sisterdale. That’s 13 miles by road. And we did find all but one,” recalled Earl Pankratz, 75, then a member of the Comfort Volunteer Fire Department.
 
 “About the only thing I can say is I’ll never forget it. You want to push it back like it wasn’t there, but you’re not able to give it up or forget it,” he said.
 
-Now the sheriff in Kerr County, Rusty Hierholzer was a deputy working the night shift on July 16, 1987. At dawn, he was already aboard a Army rescue helicopter, responding to a rescue call upriver in Hunt, where two camp counselors were in peril.
+Now the sheriff in Kerr County, Rusty Hierholzer was a deputy working the night shift on July 16, 1987. At dawn, he was already aboard an Army rescue helicopter, responding to a rescue call upriver in Hunt, where two camp counselors were in peril.
 
 “We had just finished getting one counselor out. The other had gotten out on his own. That’s when we got the call of the bus going off the road in Comfort. So we flew down, and I spent the next 40 hours working there,” he said.
 
@@ -99,7 +99,7 @@ On Memorial Day weekend two years ago, 11 people died when the Blanco River rose
 
 “The river is even more dangerous now than back then for loss of life because the county has grown and there are so many more people on the river who haven’t seen that type of flood,” he said. 
 
-“Unfortunately, people still think they can beat it when its coming up, or that it won’t come up as far,” he added.
+“Unfortunately, people still think they can beat it when it's coming up, or that it won’t come up as far,” he added.
 
 {.pullquote}
 quote: We watched the girl get dropped and watched her die.
@@ -114,23 +114,23 @@ The project is a joint venture between the county and the Upper Guadalupe River 
 [.slideshow]
 
 source: http://ww1.hdnux.com/photos/62/37/65/13237588/3/rawImage.jpg
-caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News file photo
-
-source: http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg
-caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News file photo
-
-source: http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg
-caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
-cutline: Express-News file photo
-
-source: http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg
-caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
+caption: A helicopter surveys the bus submerged in the Guadalupe River after the July 17, 1987 flood that killed 10 teenagers near Comfort, Texas.
 cutline: Express-News file photo
 
 source: http://ww4.hdnux.com/photos/62/37/65/13237587/3/rawImage.jpg
-caption: 10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.
+caption: Campers wait after being rescued from the floodwaters near Comfort, Texas.
+cutline: Express-News file photo
+
+source: http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg
+caption: A rescue worker begins removing the sunken bus that carried children from Seagoville Road Baptist Church from the Guadalupe River.
+cutline: Express-News file photo
+
+source: http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg
+caption: The National Guard and other first responders evacuated children from the sunken bus and the trees surrounding it.  
+cutline: Express-News file photo
+
+source: http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg
+caption: Rescue workers recover the bus that was carrying children from Seagoville Road Baptist Church away from the Pot O' Gold Ranch.
 cutline: Express-News file photo
 
 []
@@ -151,6 +151,13 @@ Asberry, then a young teenager who attended the affiliated Balch Springs Christi
 
 Asberry said that even though he stayed on at the academy, and later went to a Bible college, the bus tragedy “kind of messed my head up a little bit. It still weighed on me,” leading to a temporary crisis of faith.
 
+{.photo}
+source: http://ww4.hdnux.com/photos/62/41/14/13243167/3/rawImage.jpg
+caption: Rev. Richard Koons looks through his Bible before giving a sermon at SouthPointe Baptist Church in Arlington, Texas on June 9, 2017. Koons drove the bus that swept away in the flood and his wife, Lavonda, was swept a mile downstream. 
+cutline: Lara Solt / For the Express-News
+type: small-left
+{}
+
 “I had lost 10 friends and it’s a small school. You know everybody. You have an intimate relationship. You know where they live. You know when they are sick,” he said. 
 
 Henderson, 77, still the spiritual leader of the independent Baptist church, declined to speak to a reporter.
@@ -170,7 +177,7 @@ Koons said he and his wife have used the tragedy in their ministry, traveling ar
 “We tell the story of some of the kids who were heroes that day, including the young man who was never found. And of the ones who survived and are doing great things. Our hope is we’ll see them again in heaven,” he said.
 
 {.iframe}
-source: https://www.youtube.com/embed/fUJ4vSTXXyQ?ecver=1
+source: https://www.youtube.com/embed/GxKb6qurll4
 {}
 
 []
@@ -194,5 +201,7 @@ Juarez said she still wonders what happened to Bankston, the camper whose body w
 “I think maybe he’s an angel out there somewhere, watching over the river. Isn’t that weird?” 
 
 credit: jmaccormack@express-news.net
+
+credit: Twitter: JohnMacCormack
 
 []

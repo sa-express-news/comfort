@@ -1,8 +1,8 @@
 {
   "top": {
     "meta": {
-      "headline": "Comfort flood claimed 10 lives thirty years ago this week",
-      "subhead": "Three decades ago, 10 Dallas-area children on a church bus perished in the raging floodwaters of the Guadalupe River.",
+      "headline": "Thirty years ago, Comfort flood claimed 10 lives",
+      "subhead": "Dallas-area children perished when a church bus was swept into the raging floodwaters of the Guadalupe River.",
       "byline": "John MacCormack",
       "date": "July 17, 2017"
     },
@@ -36,7 +36,7 @@
       },
       {
         "type": "text",
-        "value": "Swollen by nearly foot of rainfall overnight, the Guadalupe River had jumped its banks and was rapidly rising. Ten church kids from the Balch Springs church would perish in the flash flood, including one who fell during an attempted helicopter rescue. The body of one lost camper was never recovered."
+        "value": "Swollen by nearly a foot of rainfall overnight, the Guadalupe River had jumped its banks and was rapidly rising. Ten kids from the Balch Springs church would perish in the flash flood, including one who fell during an attempted helicopter rescue. The body of one lost camper was never recovered."
       },
       {
         "type": "text",
@@ -62,7 +62,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww1.hdnux.com/photos/62/37/65/13237580/3/rawImage.jpg",
-          "caption": "Steve Bohnert looks over the memorial stone as he returns to the Guadalupe River near Comfort and looks over the site of the 1987 tragedy which claimed 10 teenagers lives  on June 2, 2017.",
+          "caption": "Steve Bohnert looks over the memorial stone on June 2, 2017 as he returns to the Guadalupe River near Comfort and the site of the 1987 tragedy which claimed 10 teenagers' lives.",
           "cutline": "Tom Reel / San Antonio Express-News",
           "type": "small-right"
         }
@@ -125,7 +125,7 @@
       },
       {
         "type": "text",
-        "value": "A day later, when the flood waters subsided, the gruesome, muddy search for bodies began. National Guardsmen, Texas Rangers, men on horseback, divers, cadaver dogs and squads of volunteers joined the effort. Eventually all but John Bankston Jr. a star athlete at the academy, were recovered."
+        "value": "A day later, when the flood waters subsided, the gruesome, muddy search for bodies began. National Guardsmen, Texas Rangers, men on horseback, divers, cadaver dogs and squads of volunteers joined the effort. Eventually all but John Bankston Jr., a star athlete at the academy, were recovered."
       },
       {
         "type": "text",
@@ -137,7 +137,7 @@
       },
       {
         "type": "text",
-        "value": "Now the sheriff in Kerr County, Rusty Hierholzer was a deputy working the night shift on July 16, 1987. At dawn, he was already aboard a Army rescue helicopter, responding to a rescue call upriver in Hunt, where two camp counselors were in peril."
+        "value": "Now the sheriff in Kerr County, Rusty Hierholzer was a deputy working the night shift on July 16, 1987. At dawn, he was already aboard an Army rescue helicopter, responding to a rescue call upriver in Hunt, where two camp counselors were in peril."
       },
       {
         "type": "text",
@@ -177,7 +177,7 @@
       },
       {
         "type": "text",
-        "value": "“Unfortunately, people still think they can beat it when its coming up, or that it won’t come up as far,” he added."
+        "value": "“Unfortunately, people still think they can beat it when it's coming up, or that it won’t come up as far,” he added."
       },
       {
         "type": "pullquote",
@@ -202,27 +202,27 @@
         "value": [
           {
             "source": "http://ww1.hdnux.com/photos/62/37/65/13237588/3/rawImage.jpg",
-            "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News file photo"
-          },
-          {
-            "source": "http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg",
-            "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News file photo"
-          },
-          {
-            "source": "http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg",
-            "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
-            "cutline": "Express-News file photo"
-          },
-          {
-            "source": "http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg",
-            "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
+            "caption": "A helicopter surveys the bus submerged in the Guadalupe River after the July 17, 1987 flood that killed 10 teenagers near Comfort, Texas.",
             "cutline": "Express-News file photo"
           },
           {
             "source": "http://ww4.hdnux.com/photos/62/37/65/13237587/3/rawImage.jpg",
-            "caption": "10 children died in a flood near Comfort, Texas July 17, 1987 when the flooding Guadalupe River swallowed their church camp bus.",
+            "caption": "Campers wait after being rescued from the floodwaters near Comfort, Texas.",
+            "cutline": "Express-News file photo"
+          },
+          {
+            "source": "http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg",
+            "caption": "A rescue worker begins removing the sunken bus that carried children from Seagoville Road Baptist Church from the Guadalupe River.",
+            "cutline": "Express-News file photo"
+          },
+          {
+            "source": "http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg",
+            "caption": "The National Guard and other first responders evacuated children from the sunken bus and the trees surrounding it.",
+            "cutline": "Express-News file photo"
+          },
+          {
+            "source": "http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg",
+            "caption": "Rescue workers recover the bus that was carrying children from Seagoville Road Baptist Church away from the Pot O' Gold Ranch.",
             "cutline": "Express-News file photo"
           }
         ]
@@ -252,6 +252,15 @@
       {
         "type": "text",
         "value": "Asberry said that even though he stayed on at the academy, and later went to a Bible college, the bus tragedy “kind of messed my head up a little bit. It still weighed on me,” leading to a temporary crisis of faith."
+      },
+      {
+        "type": "photo",
+        "value": {
+          "source": "http://ww4.hdnux.com/photos/62/41/14/13243167/3/rawImage.jpg",
+          "caption": "Rev. Richard Koons looks through his Bible before giving a sermon at SouthPointe Baptist Church in Arlington, Texas on June 9, 2017. Koons drove the bus that swept away in the flood and his wife, Lavonda, was swept a mile downstream.",
+          "cutline": "Lara Solt / For the Express-News",
+          "type": "small-left"
+        }
       },
       {
         "type": "text",
@@ -292,7 +301,7 @@
       {
         "type": "iframe",
         "value": {
-          "source": "https://www.youtube.com/embed/fUJ4vSTXXyQ?ecver=1"
+          "source": "https://www.youtube.com/embed/GxKb6qurll4"
         }
       }
     ],
@@ -332,6 +341,10 @@
       {
         "type": "credit",
         "value": "jmaccormack@express-news.net"
+      },
+      {
+        "type": "credit",
+        "value": "Twitter: JohnMacCormack"
       }
     ]
   }
