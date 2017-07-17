@@ -11,7 +11,7 @@ cutline: Express-News file photo
 
 [+sections.1]
 
-“It was lots of fun, a blast,” said Asberry, then 15, and a member of the congregation of the Seagoville Road Baptist Church in Balch Springs, near Dallas. But things changed dramatically on July 17, 1987, the day to go home, beginning wtih an unwelcome early morning wake-up. 
+“It was lots of fun, a blast,” said Asberry, then 15, and a member of the congregation of the Seagoville Road Baptist Church in Balch Springs, near Dallas. But things changed dramatically on July 17, 1987, the day to go home, beginning with an unwelcome early morning wake-up. 
 
 “They wanted us to try and get out because the river was rising. It was more a sense of being perturbed at having to wake up early. It wasn’t really a big deal to us. We’d all been in Texas storms before,” he said.
 
@@ -57,7 +57,7 @@ And although warning phone calls were made overnight to riverside residents and 
 Of the five or six vehicles loaded with campers that rolled out of the Pot O’ Gold Ranch early that morning, only the two bound for Balch Springs got stuck in the flood waters.
 
 {.iframe}
-source: https://www.youtube.com/embed/L24W1dmlUAg?rel=0&amp;showinfo=0
+source: https://www.youtube.com/embed/ZMSlsKEGCnA
 {}
 
 []
@@ -111,29 +111,9 @@ Kerr County Commissioner Tom Moser said the county has applied for a $1 million 
 
 The project is a joint venture between the county and the Upper Guadalupe River Authority, and requires a 25 percent local match. Moser said the county hopes to learn if its proposal has been approved sometime this year. 
 
-[.slideshow]
-
-source: http://ww1.hdnux.com/photos/62/37/65/13237588/3/rawImage.jpg
-caption: A helicopter surveys the bus submerged in the Guadalupe River after the July 17, 1987 flood that killed 10 teenagers near Comfort, Texas.
-cutline: Express-News file photo
-
-source: http://ww4.hdnux.com/photos/62/37/65/13237587/3/rawImage.jpg
-caption: Campers wait after being rescued from the floodwaters near Comfort, Texas.
-cutline: Express-News file photo
-
-source: http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg
-caption: A rescue worker begins removing the sunken bus that carried children from Seagoville Road Baptist Church from the Guadalupe River.
-cutline: Express-News file photo
-
-source: http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg
-caption: The National Guard and other first responders evacuated children from the sunken bus and the trees surrounding it.  
-cutline: Express-News file photo
-
-source: http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg
-caption: Rescue workers recover the bus that was carrying children from Seagoville Road Baptist Church away from the Pot O' Gold Ranch.
-cutline: Express-News file photo
-
-[]
+{.iframe}
+source: https://www.youtube.com/embed/L24W1dmlUAg?rel=0&amp;showinfo=0
+{}
 
 []
 
@@ -166,7 +146,7 @@ Rev. Richard Koons, 56, then a church counselor and the driver of the bus that w
 
 “Everyone dealt with it in different ways. Obviously there was a lot of grief. A lot of anger, but I think the connecting point for everyone that healed was faith,” he said.
 
-“Knowing there is a big theological word called ‘sovereignty to God. He’s in charge of everything that happens to us. You have to cling to that,” Koons said.
+“Knowing there is a big theological word called ‘sovereignty' to God. He’s in charge of everything that happens to us. You have to cling to that,” Koons said.
 
 Both Koons and his wife, who was swept a mile downstream, survived the flood. He said their kindergarten-aged daughter easily could also have been on the bus.
 
@@ -202,6 +182,30 @@ Juarez said she still wonders what happened to Bankston, the camper whose body w
 
 credit: jmaccormack@express-news.net
 
-credit: Twitter: JohnMacCormack
+credit: Twitter: @JohnMacCormack
+
+[.slideshow]
+
+source: http://ww1.hdnux.com/photos/62/37/65/13237588/3/rawImage.jpg
+caption: A helicopter surveys the bus submerged in the Guadalupe River after the July 17, 1987 flood that killed 10 teenagers near Comfort, Texas.
+cutline: Express-News file photo
+
+source: http://ww4.hdnux.com/photos/62/37/65/13237587/3/rawImage.jpg
+caption: Campers wait after being rescued from the floodwaters near Comfort, Texas.
+cutline: Express-News file photo
+
+source: http://ww2.hdnux.com/photos/62/37/65/13237589/3/rawImage.jpg
+caption: First responders used helicopters to rescue children clinging to trees.
+cutline: Express-News file photo
+
+source: http://ww2.hdnux.com/photos/62/37/65/13237585/3/rawImage.jpg
+caption: A rescue worker begins removing the sunken bus that carried children from Seagoville Road Baptist Church from the Guadalupe River.
+cutline: Express-News file photo
+
+source: http://ww3.hdnux.com/photos/62/37/65/13237586/3/rawImage.jpg
+caption: Rescue workers recover the bus that was carrying children from Seagoville Road Baptist Church away from the Pot O' Gold Ranch.
+cutline: Express-News file photo
+
+[]
 
 []
