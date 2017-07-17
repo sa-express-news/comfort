@@ -1,4 +1,4 @@
-.SubscribeFooter{
+.SubscribeFooter {
     padding: .25em 0em;
     background: #E5E5E5;
     text-align: center;
@@ -9,7 +9,7 @@
     margin: 5px;
 }
 
-.SubscribeFooter > div {
+.SubscribeFooter>div {
     margin: 0 auto;
     width: 50%;
 }
@@ -17,6 +17,13 @@
 .SubscribeFooter button {
     width: 75%;
 }
+
+@media (min-width: 1024px) {
+    .SubscribeFooter button {
+        width: 20%;
+    }
+}
+
 
 /*.SubscribeFooterContainer {
     border-bottom: 1px solid gray;
