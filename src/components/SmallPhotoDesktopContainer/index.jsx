@@ -1,6 +1,6 @@
 // @flow
 
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 import PhotoInfo from '../PhotoInfo/PhotoInfo';
 
@@ -13,12 +13,12 @@ class SmallPhotoDesktopContainer extends Component {
 		cutline: string
 	};
 
-	render(){
+	render() {
 
-		return(
+		return (
 			<div className='SmallPhotoDesktopContainer'>
 				{this.props.children}
-				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline}/>
+				<PhotoInfo caption={this.props.caption} cutline={this.props.cutline} />
 			</div>
 		)
 	}
